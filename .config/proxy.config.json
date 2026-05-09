@@ -1,0 +1,9 @@
+{
+  "listenPort": "$PORT",
+  "targetHost": "clutchsmp.mcsh.io",
+  "targetPort": 25565,
+  "onlineMode": false,
+  "version": "1.21.11",
+  "motd": "ClutchSMP's EaglerCraft-Bridge",
+  "compression": true
+}
